@@ -1,0 +1,23 @@
+ .error{
+    color: rgb(146, 23, 23);
+}
+p.success{
+    color: green;
+}
+p.success.feedback{
+    border: 1px dashed  green;
+}
+#content{
+    background-color: aqua;
+    padding: 20px;
+} 
+a[href="https://www.google.com/"]{
+    background-color: aqua;
+    padding: 1px;
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 2px;
+    
+}
